@@ -228,7 +228,7 @@ vocab = {
         "consequent": "natijada",
         "construct": "qurmoq",
         "consume": "iste'mol qilmoq"
-    }
+    },
         "11": {
         "credit": "kredit",
         "culture": "madaniyat",
@@ -816,5 +816,6 @@ if __name__ == "__main__":
         webhook_url=f"https://<YOUR-RAILWAY-APP-NAME>.up.railway.app/{BOT_TOKEN}"
 
     )
+
 
 

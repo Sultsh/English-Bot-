@@ -669,6 +669,7 @@ vocab = {
         "analogy": "o'xshashlik",
         "anticipate": "kutmoq"
     }
+}
 
 # ======================= LOGGING =======================
 logging.basicConfig(
@@ -815,4 +816,5 @@ if __name__ == "__main__":
         webhook_url=f"https://<YOUR-RAILWAY-APP-NAME>.up.railway.app/{BOT_TOKEN}"
 
     )
+
 
